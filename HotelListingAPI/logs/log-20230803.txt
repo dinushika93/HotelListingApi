@@ -1,0 +1,53 @@
+2023-08-03 08:18:18.053 +08:00 [INF] Now listening on: https://localhost:7013
+2023-08-03 08:18:18.077 +08:00 [INF] Now listening on: http://localhost:5293
+2023-08-03 08:18:18.088 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-03 08:18:18.089 +08:00 [INF] Hosting environment: Development
+2023-08-03 08:18:18.089 +08:00 [INF] Content root path: C:\Users\Dinu\source\repos\HotelListingAPI\HotelListingAPI
+2023-08-03 08:18:23.098 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger - -
+2023-08-03 08:18:23.273 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger - - - 301 0 - 178.3724ms
+2023-08-03 08:18:23.292 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/index.html - -
+2023-08-03 08:18:23.701 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/index.html - - - 200 - text/html;charset=utf-8 409.2988ms
+2023-08-03 08:18:26.853 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/swagger-ui.css - -
+2023-08-03 08:18:26.855 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/swagger-ui-bundle.js - -
+2023-08-03 08:18:26.855 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/_framework/aspnetcore-browser-refresh.js - -
+2023-08-03 08:18:26.855 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/swagger-ui-standalone-preset.js - -
+2023-08-03 08:18:26.873 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/_vs/browserLink - -
+2023-08-03 08:18:26.996 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 140.3479ms
+2023-08-03 08:18:27.064 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-08-03 08:18:27.064 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-08-03 08:18:27.065 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/swagger-ui.css - - - 200 143943 text/css 211.7006ms
+2023-08-03 08:18:27.065 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 210.1820ms
+2023-08-03 08:18:27.105 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-08-03 08:18:27.105 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 250.7755ms
+2023-08-03 08:18:27.217 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 343.6373ms
+2023-08-03 08:18:27.784 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/v1/swagger.json - -
+2023-08-03 08:18:27.830 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/favicon-32x32.png - -
+2023-08-03 08:18:27.836 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-08-03 08:18:27.837 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/favicon-32x32.png - - - 200 628 image/png 6.4147ms
+2023-08-03 08:18:28.100 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 316.4293ms
+2023-08-03 08:20:23.013 +08:00 [INF] Now listening on: https://localhost:7013
+2023-08-03 08:20:23.032 +08:00 [INF] Now listening on: http://localhost:5293
+2023-08-03 08:20:23.042 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-03 08:20:23.043 +08:00 [INF] Hosting environment: Development
+2023-08-03 08:20:23.043 +08:00 [INF] Content root path: C:\Users\Dinu\source\repos\HotelListingAPI\HotelListingAPI
+2023-08-03 08:20:25.433 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/index.html - -
+2023-08-03 08:20:25.843 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/index.html - - - 200 - text/html;charset=utf-8 418.4087ms
+2023-08-03 08:20:25.867 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/_framework/aspnetcore-browser-refresh.js - -
+2023-08-03 08:20:25.879 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.9327ms
+2023-08-03 08:20:25.885 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/_vs/browserLink - -
+2023-08-03 08:20:25.983 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 97.9816ms
+2023-08-03 08:20:26.465 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/v1/swagger.json - -
+2023-08-03 08:20:26.693 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 228.4442ms
+2023-08-03 08:22:04.152 +08:00 [INF] Now listening on: https://localhost:7013
+2023-08-03 08:22:04.171 +08:00 [INF] Now listening on: http://localhost:5293
+2023-08-03 08:22:04.172 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-03 08:22:04.173 +08:00 [INF] Hosting environment: Development
+2023-08-03 08:22:04.173 +08:00 [INF] Content root path: C:\Users\Dinu\source\repos\HotelListingAPI\HotelListingAPI
+2023-08-03 08:22:06.364 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/index.html - -
+2023-08-03 08:22:06.613 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/index.html - - - 200 - text/html;charset=utf-8 253.7860ms
+2023-08-03 08:22:06.628 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/_framework/aspnetcore-browser-refresh.js - -
+2023-08-03 08:22:06.628 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/_vs/browserLink - -
+2023-08-03 08:22:06.644 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 15.7444ms
+2023-08-03 08:22:06.681 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.0391ms
+2023-08-03 08:22:06.734 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7013/swagger/v1/swagger.json - -
+2023-08-03 08:22:06.854 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7013/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.7394ms
